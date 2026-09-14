@@ -44,7 +44,7 @@ $ git log --author=CoreZen --upstream
 | [raz34900/SecureSign](https://github.com/raz34900/SecureSign) | [From prototype to production](https://github.com/raz34900/SecureSign/pull/1): full platform build-out. | Merged |
 <!--END_SECTION:pinned-->
 
-<sub>More, refreshed weekly:</sub>
+**More, refreshed weekly**
 
 <!--START_SECTION:prs-->
 | Repo | Contribution | Status |
